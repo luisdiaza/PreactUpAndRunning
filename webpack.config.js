@@ -1,8 +1,8 @@
-const path = require('path');
+const path = require('path');//this codes makes the app cross platform
 
 module.exports = {
     //input
-    entry: './src',
+    entry: './src',//provides an entry point for webpack
 
     //output
     output: {
